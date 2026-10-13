@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif"><rect width="1200" height="750" fill="#ffffff"/>
+    <rect x="50" y="50" width="1100" height="650" rx="24" fill="#ffffff" stroke="#e3e5ea" stroke-width="2"/>
+    <line x1="50" x2="1150" y1="122" y2="122" stroke="#e3e5ea" stroke-width="2"/>
+    <circle cx="96" cy="86" r="14" fill="#a3460a"/><text x="124" y="95" font-size="26" fill="#15171c" font-weight="700">Lantern Cue</text><text x="1110" y="95" font-size="21" fill="#676b74" text-anchor="end">주간 제품 회의 · 32분</text>
+    <text x="96" y="178" font-size="22" fill="#676b74" font-weight="600">회의 기록</text>
+    <rect x="90" y="205" width="470" height="88" rx="14" fill="#f4f5f7"/><text x="116" y="258" font-size="22" fill="#15171c">민지  다음 주 데모는 수요일로 하죠.</text><rect x="90" y="317" width="470" height="88" rx="14" fill="#f4f5f7"/><text x="116" y="370" font-size="22" fill="#15171c">도윤  가격표는 금요일까지 다시 봐 주세요.</text><rect x="90" y="429" width="470" height="88" rx="14" fill="#f4f5f7"/><text x="116" y="482" font-size="22" fill="#15171c">현우  고객 인터뷰 세 건 잡아 둘게요.</text><rect x="90" y="541" width="470" height="88" rx="14" fill="#f4f5f7"/><text x="116" y="594" font-size="22" fill="#15171c">민지  온보딩 메일 문구도 손봐야 해요.</text>
+    <path d="M 590 420 L 640 420" stroke="#a3460a" stroke-width="4" stroke-linecap="round"/><path d="M 628 406 L 644 420 L 628 434" fill="none" stroke="#a3460a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="676" y="178" font-size="22" fill="#a3460a" font-weight="700">자동으로 정리된 할 일 4</text>
+    <rect x="670" y="205" width="440" height="88" rx="14" fill="#ffffff" stroke="#e3e5ea" stroke-width="2"/>
+      <rect x="694" y="234" width="28" height="28" rx="7" fill="none" stroke="#15171c" stroke-width="2.5"/>
+      <text x="740" y="258" font-size="23" fill="#15171c" font-weight="600">데모 일정 확정 (수)</text><text x="1086" y="258" font-size="19" fill="#676b74" text-anchor="end">민지 · 10/15</text><rect x="670" y="317" width="440" height="88" rx="14" fill="#ffffff" stroke="#e3e5ea" stroke-width="2"/>
+      <rect x="694" y="346" width="28" height="28" rx="7" fill="none" stroke="#15171c" stroke-width="2.5"/>
+      <text x="740" y="370" font-size="23" fill="#15171c" font-weight="600">가격표 수정</text><text x="1086" y="370" font-size="19" fill="#676b74" text-anchor="end">도윤 · 10/17</text><rect x="670" y="429" width="440" height="88" rx="14" fill="#ffffff" stroke="#e3e5ea" stroke-width="2"/>
+      <rect x="694" y="458" width="28" height="28" rx="7" fill="none" stroke="#15171c" stroke-width="2.5"/>
+      <text x="740" y="482" font-size="23" fill="#15171c" font-weight="600">고객 인터뷰 3건 섭외</text><text x="1086" y="482" font-size="19" fill="#676b74" text-anchor="end">현우 · 10/16</text><rect x="670" y="541" width="440" height="88" rx="14" fill="#ffffff" stroke="#e3e5ea" stroke-width="2"/>
+      <rect x="694" y="570" width="28" height="28" rx="7" fill="none" stroke="#15171c" stroke-width="2.5"/>
+      <text x="740" y="594" font-size="23" fill="#15171c" font-weight="600">온보딩 메일 문구 수정</text><text x="1086" y="594" font-size="19" fill="#676b74" text-anchor="end">민지 · 10/18</text></svg>

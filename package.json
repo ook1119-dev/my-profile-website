@@ -1,0 +1,12 @@
+{
+  "name": "my-profile-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "개인 프로필 웹사이트 실습 (HTML·CSS·JavaScript, Node.js 로컬 서버, Vercel 배포) — 가상 인물",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
